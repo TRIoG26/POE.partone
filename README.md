@@ -5,3 +5,6 @@ How To Run
 open program class and run program.
 add information according to what's being asked
 edit or delete items according to you're wish
+made a new changes to the code itself less errors.
+fixed displaying error
+added a new option in the menu
